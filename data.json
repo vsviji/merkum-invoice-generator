@@ -1,0 +1,434 @@
+{
+  "merkum_invoices": {
+    "002": {
+      "invoiceNo": "002",
+      "date": "2025-11-04",
+      "toAddress": "KUMARAN MEDICALS\nNO 39 FRENCH TEACHERS STREET \nKARAIKAL-609602\n34-PUDUCHERRY\nPHONE : 9788899670,9952324858",
+      "pgstno": "34AAGFK9179E1Z3",
+      "partyDlNo": "RLF20PY2023000031, RLF21PY2023000031",
+      "subtotal": 31383,
+      "discount": 0,
+      "igst": 1569.15,
+      "roundOff": -0.15,
+      "grandTotal": 32952,
+      "products": [
+        {
+          "product": "DEXBRO ",
+          "pack": "100ML",
+          "hsn": "3004",
+          "batch": "MXS59013",
+          "exp": "05/27",
+          "mrp": 112,
+          "qty": 270,
+          "free": 30,
+          "rate": 90,
+          "amount": 24300
+        },
+        {
+          "product": "AZIL-250 LB",
+          "pack": "10*6",
+          "hsn": "3004",
+          "batch": "GFTP25527",
+          "exp": "06/27",
+          "mrp": 98.39,
+          "qty": 90,
+          "free": 10,
+          "rate": 78.7,
+          "amount": 7083
+        },
+        {
+          "product": "",
+          "pack": "",
+          "hsn": "",
+          "batch": "",
+          "exp": "",
+          "mrp": 0,
+          "qty": 0,
+          "free": 0,
+          "rate": 0,
+          "amount": 0
+        }
+      ],
+      "savedAt": "2025-11-04T03:34:05.009Z"
+    },
+    "001": {
+      "invoiceNo": "001",
+      "date": "2025-11-04",
+      "toAddress": "KUMARAN MEDICALS\nNO.39, FRENCH TEACHERS STREET\nKARAIKAL-609602\nPHONE: 9788899670, 9952324858 \n ",
+      "pgstno": "34AAGFK9179E1Z3",
+      "partyDlNo": "RLF20PY2023000031, RLF21PY2023000031",
+      "subtotal": 65817.4,
+      "discount": 0,
+      "igst": 3290.87,
+      "roundOff": -0.27,
+      "grandTotal": 69108,
+      "products": [
+        {
+          "product": "HITCH DROPS",
+          "pack": "30ML",
+          "hsn": "3004",
+          "batch": "GLF0722",
+          "exp": "6/27",
+          "mrp": 42,
+          "qty": 60,
+          "free": 6,
+          "rate": 31.5,
+          "amount": 1890
+        },
+        {
+          "product": "MIGZEN",
+          "pack": "60ML",
+          "hsn": "3004",
+          "batch": "25AL056",
+          "exp": "3/27",
+          "mrp": 63,
+          "qty": 180,
+          "free": 20,
+          "rate": 50,
+          "amount": 9000
+        },
+        {
+          "product": "JONYSPASS DROPS",
+          "pack": "30ML",
+          "hsn": "3004",
+          "batch": "SPL21053",
+          "exp": "10/26",
+          "mrp": 51.5,
+          "qty": 50,
+          "free": 5,
+          "rate": 41.2,
+          "amount": 2060
+        },
+        {
+          "product": "PICOFEN+SUSP",
+          "pack": "170ML",
+          "hsn": "3004",
+          "batch": "JL025E078",
+          "exp": "4/27",
+          "mrp": 140.5,
+          "qty": 30,
+          "free": 3,
+          "rate": 112.4,
+          "amount": 3372
+        },
+        {
+          "product": "DUOFRESH SUSP",
+          "pack": "170ML",
+          "hsn": "3004",
+          "batch": "SPL1205",
+          "exp": "12/26",
+          "mrp": 119,
+          "qty": 60,
+          "free": 10,
+          "rate": 95.2,
+          "amount": 5712
+        },
+        {
+          "product": "VECTOMOX TABLET 250DT",
+          "pack": "10'S",
+          "hsn": "3004",
+          "batch": "B1241215",
+          "exp": "11/26",
+          "mrp": 70.75,
+          "qty": 520,
+          "free": 60,
+          "rate": 56.6,
+          "amount": 29432
+        },
+        {
+          "product": "PYMOLD SUSP",
+          "pack": "60ML",
+          "hsn": "3004",
+          "batch": "MXS9119",
+          "exp": "1/27",
+          "mrp": 41.2,
+          "qty": 200,
+          "free": 20,
+          "rate": 32.9,
+          "amount": 6580
+        },
+        {
+          "product": "RAYCLAVDS SUSP 457",
+          "pack": "30ML",
+          "hsn": "3004",
+          "batch": "BBC25004",
+          "exp": "8/26",
+          "mrp": 154.5,
+          "qty": 22,
+          "free": 2,
+          "rate": 123.5,
+          "amount": 2717
+        },
+        {
+          "product": "INQUITY LOTION",
+          "pack": "50ML",
+          "hsn": "3004",
+          "batch": "J1005",
+          "exp": "8/26",
+          "mrp": 117,
+          "qty": 54,
+          "free": 9,
+          "rate": 93.6,
+          "amount": 5054.4
+        }
+      ],
+      "savedAt": "2025-11-04T15:26:01.175Z"
+    },
+    "mnb": {
+      "invoiceNo": "mnb",
+      "date": "2025-11-04",
+      "toAddress": "jdhv",
+      "pgstno": "mb ",
+      "partyDlNo": "mn ",
+      "subtotal": 0,
+      "discount": 0,
+      "igst": 0,
+      "roundOff": 0,
+      "grandTotal": 0,
+      "products": [
+        {
+          "product": "",
+          "pack": "",
+          "hsn": "",
+          "batch": "",
+          "exp": "",
+          "mrp": 0,
+          "qty": 0,
+          "free": 0,
+          "rate": 0,
+          "amount": 0
+        }
+      ],
+      "savedAt": "2025-11-04T16:25:23.754Z"
+    },
+    "003": {
+      "invoiceNo": "003",
+      "date": "2025-11-11",
+      "toAddress": "KUMARAN MEDICALS\nNO 39 FRENCH TEACHERS STREET \nKARAIKAL-609602\nPHONE : 9788899670,9952324858",
+      "pgstno": "34AAGFK9179E1Z3",
+      "partyDlNo": "RLF20PY2023000031, RLF21PY2023000031",
+      "subtotal": 41858.3,
+      "discount": 0,
+      "igst": 2092.92,
+      "roundOff": -0.22,
+      "grandTotal": 43951,
+      "products": [
+        {
+          "product": "DEXBRO",
+          "pack": "100ML",
+          "hsn": "3004",
+          "batch": "MXS59013",
+          "exp": "05/27",
+          "mrp": 112,
+          "qty": 250,
+          "free": 30,
+          "rate": 83.96,
+          "amount": 20990
+        },
+        {
+          "product": "PYMOL D SUSP",
+          "pack": "60ML",
+          "hsn": "3004",
+          "batch": "MVS59034",
+          "exp": "07/27",
+          "mrp": 41.2,
+          "qty": 200,
+          "free": 20,
+          "rate": 30.88,
+          "amount": 6176
+        },
+        {
+          "product": "VEEMINT MOUTHWASH",
+          "pack": "150ML",
+          "hsn": "3004",
+          "batch": "A2531A",
+          "exp": "12/26",
+          "mrp": 155,
+          "qty": 20,
+          "free": 2,
+          "rate": 116.19,
+          "amount": 2323.8
+        },
+        {
+          "product": "VIMZYME DROPS",
+          "pack": "30ML",
+          "hsn": "2106",
+          "batch": "GMLL-641",
+          "exp": "03/26",
+          "mrp": 79,
+          "qty": 50,
+          "free": 5,
+          "rate": 59.22,
+          "amount": 2961
+        },
+        {
+          "product": "NEUBACT OINT",
+          "pack": "5GM",
+          "hsn": "3004",
+          "batch": "24E41",
+          "exp": "04/26",
+          "mrp": 101,
+          "qty": 50,
+          "free": 5,
+          "rate": 75.71,
+          "amount": 3785.5
+        },
+        {
+          "product": "DELTOS TAB ",
+          "pack": "10 s",
+          "hsn": "3004",
+          "batch": "LGP02/22017",
+          "exp": "01/27",
+          "mrp": 150,
+          "qty": 50,
+          "free": 10,
+          "rate": 112.44,
+          "amount": 5622
+        }
+      ],
+      "savedAt": "2025-11-11T04:18:14.754Z"
+    },
+    "004": {
+      "invoiceNo": "004",
+      "date": "2025-11-13",
+      "toAddress": "KUMARAN MEDICALS\nNO 39 FRENCH TEACHERS STREET \nKARAIKAL-609602\nPHONE : 9788899670,9952324858",
+      "pgstno": "34AAGFK9179E1Z3",
+      "partyDlNo": "RLF20PY2023000031, RLF21PY2023000031",
+      "subtotal": 16812.72,
+      "discount": 0,
+      "igst": 840.64,
+      "roundOff": -0.36,
+      "grandTotal": 17653,
+      "products": [
+        {
+          "product": "AMCORYL",
+          "pack": "100ML",
+          "hsn": "3004",
+          "batch": "BCR196",
+          "exp": "11/26",
+          "mrp": 112,
+          "qty": 180,
+          "free": 20,
+          "rate": 83.96,
+          "amount": 15112.8
+        },
+        {
+          "product": "HITCH DROPS",
+          "pack": "30ML",
+          "hsn": "3004",
+          "batch": "GLF0722",
+          "exp": "06/27",
+          "mrp": 42,
+          "qty": 54,
+          "free": 6,
+          "rate": 31.48,
+          "amount": 1699.92
+        }
+      ],
+      "savedAt": "2025-11-13T03:03:37.605Z"
+    }
+  },
+  "customerDatabase": {
+    "KUMARAN MEDICALS\nNO 39 FRENCH TEACHERS STREET \nKARAIKAL-609602\n34-PUDUCHERRY\nPHONE : 9788899670,9952324858": {
+      "gst": "34AAGFK9179E1Z3",
+      "dl": "RLF20PY2023000031, RLF21PY2023000031"
+    },
+    "KUMARAN MEDICALS\nNO 39 FRENCH TEACHERS STREET \nKARAIKAL-609602\nPHONE : 9788899670,9952324858": {
+      "gst": "34AAGFK9179E1Z3",
+      "dl": "RLF20PY2023000031, RLF21PY2023000031"
+    }
+  },
+  "customerAddresses": [
+    "KUMARAN MEDICALS\nNO 39 FRENCH TEACHERS STREET \nKARAIKAL-609602\nPHONE : 9788899670,9952324858",
+    "khf",
+    "jdhv",
+    "KUMARAN MEDICALS\nNO 39 FRENCH TEACHERS STREET \nKARAIKAL-609602\n34-PUDUCHERRY\nPHONE : 9788899670,9952324858",
+    "City Medical Store\nCoimbatore\nWholesale Distributor",
+    "MedPlus Medicals\nMadurai Branch\nLicensed Chemist",
+    "Apollo Pharmacy\nChennai Main Branch\nGST: 33AAACA1234M1Z5",
+    "\nKUMARAN MEDICALS\nNO 39 FRENCH TEACHERS STREET \nKARAIKAL-609602\n34-PUDUCHERRY\nPHONE : 9788899670,9952324858"
+  ],
+  "gstNumbers": [
+    "hbv",
+    "mb",
+    "34AAGFK9179E1Z3"
+  ],
+  "dlNumbers": [
+    "jhv",
+    "mn",
+    "RLF20PY2023000031, RLF21PY2023000031"
+  ],
+  "productNames": [
+    "AMCORYL",
+    "DELTOS TAB ",
+    "DELTOS TAB 10",
+    "NEUBACT OINT",
+    "VIMZYME DROPS",
+    "VEEMINT MOUTHWASH",
+    "PYMOL D SUSP",
+    "DEXBRO",
+    "Dexbro",
+    "Dexbr0",
+    "INQUITY LOTION",
+    "RAYCLAVDS SUSP 457",
+    "RAYCLAVDS ",
+    "RAYVCLAVDS",
+    "PYMOLD SUSP",
+    "PYMOLD",
+    "VECTOMOX TABLET 250DT",
+    "VECTOMOX TABLET ",
+    "DUOFRESH SUSP",
+    "DUOFRESH+",
+    "PICOFEN+SUSP",
+    "PICOFEN+",
+    "JONYSPASS DROPS",
+    "JONYSPASS",
+    "MIGZEN",
+    "HITCH DROPS",
+    "KJHY",
+    "DEXBRO "
+  ],
+  "packs": [
+    "10 s",
+    "5GM",
+    "150ML",
+    "50ML",
+    "10'S",
+    "170ML",
+    "60ML",
+    "30ML",
+    "HGF",
+    "100ML"
+  ],
+  "hsnCodes": [
+    "2106",
+    "YTF",
+    "3004"
+  ],
+  "batches": [
+    "BCR196",
+    "LGP02/22017",
+    "24E41",
+    "GMLL-641",
+    "A2531A",
+    "MVS59034",
+    "J1005",
+    "BBC25004",
+    "BBC",
+    "MXS9119",
+    "MXS",
+    "B1241215",
+    "B124",
+    "SPL1205",
+    "JL025E078",
+    "JL025",
+    "SPL21053",
+    "25AL056",
+    "25AL",
+    "GLF0722",
+    "UYG",
+    "MXS59013"
+  ],
+  "exportDate": "2025-11-13T15:42:02.928Z",
+  "version": "1.0"
+}
